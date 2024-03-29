@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\bin\Debug\net8.0\RAZRABOTKAprl03.exe
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\bin\Debug\net8.0\RAZRABOTKAprl03.deps.json
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\bin\Debug\net8.0\RAZRABOTKAprl03.runtimeconfig.json
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\bin\Debug\net8.0\RAZRABOTKAprl03.dll
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\bin\Debug\net8.0\RAZRABOTKAprl03.pdb
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.AssemblyInfo.cs
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.dll
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\refint\RAZRABOTKAprl03.dll
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.pdb
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\RAZRABOTKAprl03.genruntimeconfig.cache
+C:\Users\Stanislav\Desktop\C#\Book\RAZRABOTKAprl03\RAZRABOTKAprl03\obj\Debug\net8.0\ref\RAZRABOTKAprl03.dll
